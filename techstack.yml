@@ -1,0 +1,588 @@
+repo_name: minhnguyen311/react-course-v3-john
+report_id: 790441fb3a04924baf710b1aebd8d339
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-07T13:27:15+00:00'
+requested_by: john-smilga
+provider: github
+branch: main
+detected_tools_count: 41
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/10-tailwind-portfolio/final/package.json
+  detection_source: 10-tailwind-portfolio/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-08-11 15:08:29.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/06-react-query/server/package.json
+  detection_source: 06-react-query/server/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-04-06 19:15:49.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/10-tailwind-portfolio/final/package.json
+  detection_source: 10-tailwind-portfolio/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-08-11 15:08:29.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/01-fundamentals/package.json
+  detection_source: 01-fundamentals/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2022-12-06 18:29:24.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 6.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/09-mixmaster/final/package.json
+  detection_source: '09-mixmaster/final/package.json'
+  last_updated_by: john smilga
+  last_updated_on: 2023-05-29 16:10:22.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/11-redux-toolkit-tutorial/final/package.json
+  detection_source: 11-redux-toolkit-tutorial/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-08-11 15:08:29.000000000 Z
+- name: Tailwind CSS
+  description: A utility-first CSS framework for rapid UI development
+  website_url: https://tailwindcss.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/10-tailwind-portfolio/final/package.json
+  detection_source: 10-tailwind-portfolio/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-08-11 15:08:29.000000000 Z
+- name: styled-components
+  description: Visual primitives for the component age. Use the best bits of ES6 and
+    CSS to style your apps without stress.
+  website_url: https://styled-components.com
+  version: 5.3.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6749/styled-components.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/09-mixmaster/final/package.json
+  detection_source: '09-mixmaster/final/package.json'
+  last_updated_by: john smilga
+  last_updated_on: 2023-05-29 16:10:22.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/10-tailwind-portfolio/final/package.json
+  detection_source: 10-tailwind-portfolio/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-08-11 15:08:29.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john
+  detection_source: Repo Metadata
+- name: Vite
+  description: Native-ESM powered web dev build tool
+  website_url: https://vitejs.dev/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/03-advanced-react/package.json
+  detection_source: 03-advanced-react/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-02-01 15:41:43.000000000 Z
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 2.0.22
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/06-react-query/server/package.json
+  detection_source: 06-react-query/server/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-04-06 19:15:49.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/12-comfy-store/final/package.json
+  detection_source: 12-comfy-store/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-08-23 15:26:42.000000000 Z
+- name: Contentful
+  description: Contentful is a cloud-based API-first content platform
+  website_url: https://www.contentful.com/
+  open_source: false
+  hosted_saas: true
+  category: Support, Sales, and Marketing
+  sub_category: Cloud Content Management System
+  image_url: https://img.stackshare.io/service/672/default_622e25ec0417ac85db5b66ca399528b101ba284f.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/08-contentful-cms/final/package.json
+  detection_source: '08-contentful-cms/final/package.json'
+  last_updated_by: john smilga
+  last_updated_on: 2023-04-17 15:39:50.000000000 Z
+- name: DaisyUI
+  description: A customizable plugin for Tailwind which adds components
+  website_url: https://daisyui.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/48516/default_dfb71fd0f2693f4157a1cc9ce86a7aa439068eb6.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/12-comfy-store/final/package.json
+  detection_source: 12-comfy-store/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-08-23 15:26:42.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 1.3.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/05-axios-tutorial/package.json
+  detection_source: 05-axios-tutorial/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-04-06 19:15:49.000000000 Z
+- name: vite
+  description: Native-ESM powered web dev build tool
+  package_url: https://www.npmjs.com/vite
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/03-advanced-react/package.json
+  detection_source: 03-advanced-react/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-02-01 15:41:43.000000000 Z
+  vulnerabilities:
+  - name: Vite dev server option `server.fs.deny` can be bypassed when hosted on case-insensitive
+      filesystem
+    cve_id: CVE-2024-23331
+    cve_url: https://github.com/advisories/GHSA-c24v-8rfc-w8vw
+    detected_date: Jan 20
+    severity: high
+    first_patched: 4.5.2
+  - name: Vite Server Options (server.fs.deny) can be bypassed using double forward-slash
+      (//)
+    cve_id: CVE-2023-34092
+    cve_url: https://github.com/advisories/GHSA-353f-5xf4-qw67
+    detected_date: Nov 23
+    severity: high
+    first_patched: 4.0.5
+  - name: Vite's `server.fs.deny` did not deny requests for patterns with directories.
+    cve_id: CVE-2024-31207
+    cve_url: https://github.com/advisories/GHSA-8jhw-289h-jh2g
+    detected_date: Apr 4
+    severity: moderate
+    first_patched: 4.5.3
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/06-react-query/server/package.json
+  detection_source: 06-react-query/server/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-04-06 19:15:49.000000000 Z
+  vulnerabilities:
+  - name: Express.js Open Redirect in malformed URLs
+    cve_id: CVE-2024-29041
+    cve_url: https://github.com/advisories/GHSA-rv95-896h-c2vc
+    detected_date: Mar 26
+    severity: moderate
+    first_patched: 4.19.2
+- name: "@tailwindcss/typography"
+  description: A Tailwind CSS plugin for automatically styling plain HTML content
+    with beautiful typographic defaults
+  package_url: https://www.npmjs.com/@tailwindcss/typography
+  version: 0.5.9
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/12-comfy-store/final/package.json
+  detection_source: 12-comfy-store/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-08-23 15:26:42.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.16.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/01-fundamentals/package.json
+  detection_source: 01-fundamentals/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2022-12-06 18:29:24.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 13.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/01-fundamentals/package.json
+  detection_source: 01-fundamentals/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2022-12-06 18:29:24.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.0.26
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/03-advanced-react/package.json
+  detection_source: 03-advanced-react/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-02-01 15:41:43.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.0.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/03-advanced-react/package.json
+  detection_source: 03-advanced-react/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-02-01 15:41:43.000000000 Z
+- name: cors
+  description: Node.js CORS middleware
+  package_url: https://www.npmjs.com/cors
+  version: 2.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/06-react-query/server/package.json
+  detection_source: 06-react-query/server/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-04-06 19:15:49.000000000 Z
+- name: dayjs
+  description: 2KB immutable date time library alternative to Moment.js with the same
+    modern API
+  package_url: https://www.npmjs.com/dayjs
+  version: 1.11.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16833/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/12-comfy-store/final/package.json
+  detection_source: 12-comfy-store/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-08-23 15:26:42.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.32.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/10-tailwind-portfolio/final/package.json
+  detection_source: 10-tailwind-portfolio/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-08-11 15:08:29.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/10-tailwind-portfolio/final/package.json
+  detection_source: 10-tailwind-portfolio/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-08-11 15:08:29.000000000 Z
+- name: morgan
+  description: HTTP request logger middleware for node.js
+  package_url: https://www.npmjs.com/morgan
+  version: 1.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16097/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/06-react-query/server/package.json
+  detection_source: 06-react-query/server/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-04-06 19:15:49.000000000 Z
+- name: nanoid
+  description: A tiny
+  package_url: https://www.npmjs.com/nanoid
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17208/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/04-fundamental-projects/08-lorem-ipsum/final/package.json
+  detection_source: 04-fundamental-projects/08-lorem-ipsum/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-03-19 14:34:48.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/01-fundamentals/package.json
+  detection_source: 01-fundamentals/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2022-12-06 18:29:24.000000000 Z
+- name: react-icons
+  description: SVG React icons of popular icon packs using ES6 imports
+  package_url: https://www.npmjs.com/react-icons
+  version: 4.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16909/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/04-fundamental-projects/03-reviews/final/package.json
+  detection_source: 04-fundamental-projects/03-reviews/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-03-16 13:52:27.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 8.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/11-redux-toolkit-tutorial/final/package.json
+  detection_source: 11-redux-toolkit-tutorial/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-08-11 15:08:29.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 6.11.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/09-mixmaster/final/package.json
+  detection_source: '09-mixmaster/final/package.json'
+  last_updated_by: john smilga
+  last_updated_on: 2023-05-29 16:10:22.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/01-fundamentals/package.json
+  detection_source: 01-fundamentals/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2022-12-06 18:29:24.000000000 Z
+- name: react-slick
+  description: React port of slick carousel
+  package_url: https://www.npmjs.com/react-slick
+  version: 0.29.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17365/default_c11ea7d401c11f11d89301d0302509ab7d72e5ac.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/04-fundamental-projects/07-slider/final/package.json
+  detection_source: 04-fundamental-projects/07-slider/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-03-16 13:52:27.000000000 Z
+- name: react-toastify
+  description: React notification made easy
+  package_url: https://www.npmjs.com/react-toastify
+  version: 9.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18461/default_5ff724c0ff89bb42698aa80ef3403008cb0d8f72.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/04-fundamental-projects/09-color-generator/final/package.json
+  detection_source: 04-fundamental-projects/09-color-generator/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-03-21 15:49:33.000000000 Z
+- name: slick-carousel
+  description: The last carousel you'll ever need
+  package_url: https://www.npmjs.com/slick-carousel
+  version: 1.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17737/default_9693d58c90f5c726ee648423687212d2a94266da.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/04-fundamental-projects/07-slider/final/package.json
+  detection_source: 04-fundamental-projects/07-slider/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-03-16 13:52:27.000000000 Z
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 3.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/10-tailwind-portfolio/final/package.json
+  detection_source: 10-tailwind-portfolio/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-08-11 15:08:29.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/minhnguyen311/react-course-v3-john/blob/main/04-fundamental-projects/06-tabs/final/package.json
+  detection_source: 04-fundamental-projects/06-tabs/final/package.json
+  last_updated_by: john smilga
+  last_updated_on: 2023-03-16 13:52:27.000000000 Z
